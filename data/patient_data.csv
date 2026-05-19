@@ -1,0 +1,6 @@
+PatientID,Name,Age,BillingCode,Amount
+101,John Doe,45,A123,250
+102,Jane Smith,,B456,300
+103,Bob Lee,130,C789,150
+104,Alice Wong,29,,200
+105,Chris Green,52,D012,-50
