@@ -25,17 +25,12 @@ This project simulates a lightweight data pipeline for processing healthcare-sty
 healthcare_data_system/  
 ├── data/  
 │   └── patient_data.csv  
-├── logs/  
-│   └── system_log.txt  
-├── output/  
-│   ├── clean_data.csv  
-│   ├── error_log.csv  
-│   └── summary_report.txt  
 ├── scripts/  
 │   ├── generate_report.py  
 │   ├── monitor_system.py  
 │   └── validate_data.py  
-├── main.py  
+├── main.py
+├── .gitignore
 └── README.md  
 
 ---
