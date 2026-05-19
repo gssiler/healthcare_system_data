@@ -23,15 +23,15 @@ This project simulates a lightweight data pipeline for processing healthcare-sty
 ## Project Structure
 
 healthcare_data_system/  
-├── data/  
-│   └── patient_data.csv  
-├── scripts/  
-│   ├── generate_report.py  
-│   ├── monitor_system.py  
-│   └── validate_data.py  
-├── main.py
-├── .gitignore
-└── README.md  
+- data/  
+- - patient_data.csv  
+- scripts/  
+- - generate_report.py  
+- - monitor_system.py  
+- - validate_data.py  
+- main.py
+- .gitignore
+- README.md  
 
 ---
 
