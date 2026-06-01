@@ -10,6 +10,14 @@ This project simulates a lightweight data pipeline for processing healthcare-sty
 
 ---
 
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
 ## Features
 
 - Automated data validation with structured error detection  
